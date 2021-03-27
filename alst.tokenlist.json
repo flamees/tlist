@@ -1,43 +1,22 @@
 {
   "name": "My Token List",
-  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "logoURI": "https://z3.ax1x.com/2021/03/27/cSPdnH.png",
   "keywords": [
     "audited",
     "verified",
     "special tokens"
   ],
-  "tags": {
-    "stablecoin": {
-      "name": "Stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
-    },
-    "compound": {
-      "name": "Compound Finance",
-      "description": "Tokens that earn interest on compound.finance"
-    }
-  },
   "timestamp": "2020-06-12T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "address": "0x65c20a3ba951490edaacd95573f6dcff756b8301",
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
-      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "logoURI": "https://z3.ax1x.com/2021/03/27/cSPdnH.png",
       "tags": [
         "stablecoin"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-      "symbol": "cUSDC",
-      "name": "Compound USD Coin",
-      "decimals": 8,
-      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-      "tags": [
-        "compound"
       ]
     }
   ],
