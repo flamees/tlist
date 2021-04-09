@@ -1,6 +1,6 @@
 {
-  "name": "My Token List",
-  "logoURI": "https://z3.ax1x.com/2021/03/27/cSPdnH.png",
+  "name": "YFS.FINANCE",
+  "logoURI": "https://z3.ax1x.com/2021/04/09/ctrxWd.png",
   "keywords": [
     "audited",
     "verified",
@@ -10,11 +10,11 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x65c20a3ba951490edaacd95573f6dcff756b8301",
-      "symbol": "USDC",
-      "name": "USD Coin",
-      "decimals": 6,
-      "logoURI": "https://z3.ax1x.com/2021/03/27/cSPdnH.png",
+      "address": "0x92d984ff5593fcc209adb525adef90d119eb0d9d",
+      "symbol": "YFS",
+      "name": "YFS.FINANCE",
+      "decimals": 18,
+      "logoURI": "https://z3.ax1x.com/2021/04/09/ctrxWd.png",
       "tags": [
         "stablecoin"
       ]
