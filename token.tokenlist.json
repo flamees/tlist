@@ -1,20 +1,20 @@
 {
-  "name": "BTC",
-  "logoURI": "https://z3.ax1x.com/2021/03/27/cSPdnH.png",
+  "name": "YFS.FINANCE",
+  "logoURI": "https://z3.ax1x.com/2021/04/09/ctrxWd.png",
   "keywords": [
       "defi",
-      "BTC",
+      "YFS",
       "yield
     ],
     "timestamp": "2020-09-01T01:40:34.305Z",
     "tokens": [
       {
       "chainId": 1,
-      "address": "0x65c20a3ba951490edaacd95573f6dcff756b8301",
-      "name": "BTC",
-      "symbol": "BTC",
+      "address": "0x92d984ff5593fcc209adb525adef90d119eb0d9d",
+      "name": "YFS.FINANCE",
+      "symbol": "YFS",
       "decimals": 18,
-      "logoURI": "https://z3.ax1x.com/2021/03/27/cSPdnH.png"
+      "logoURI": "https://z3.ax1x.com/2021/04/09/ctrxWd.png"
       }
     ],
     "version": {
