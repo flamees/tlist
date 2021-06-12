@@ -1,0 +1,28 @@
+{
+  "name": "ALPACA",
+  "logoURI": "https://www.hualigs.cn/image/60c4ebbc5cf1f.jpg",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x1e67f4b077929a126feed088e3d70f4abb704721",
+      "symbol": "ALPACA",
+      "name": "ALPACA",
+      "decimals": 9,
+      "logoURI": "https://www.hualigs.cn/image/60c4ebbc5cf1f.jpg",
+      "tags": [
+        "stablecoin"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
